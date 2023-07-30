@@ -1,1 +1,3 @@
-# NYC-Property-Sales
+# NYC Property Sales
+
+Data Science Project
